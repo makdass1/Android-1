@@ -9,7 +9,7 @@ Bu projeyi geliştirirken temel amacım, Kotlin programlama dilinin temellerini 
 ## 📱 Ekran Görüntüsü
 
 ![HesapMak1](https://github.com/user-attachments/assets/27ef82cf-936c-4f07-9068-c07905a8c850)
-
+<img src="https://github.com/user-attachments/assets/27ef82cf-936c-4f07-9068-c07905a8c850" alt="HesapMak1 Ekran Görüntüsü" width="300"/>
 
 
 
