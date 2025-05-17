@@ -8,7 +8,8 @@ Bu projeyi geliştirirken temel amacım, Kotlin programlama dilinin temellerini 
 
 ## 📱 Ekran Görüntüsü
 
-<img src="C:\Users\Mustafa\Desktop\mustafa\HesapMak1.png" alt="Hesap Makinesi Ekran Görüntüsü" width="300"/>
+![HesapMak1](https://github.com/user-attachments/assets/27ef82cf-936c-4f07-9068-c07905a8c850)
+
 
 
 
