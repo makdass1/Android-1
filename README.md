@@ -8,9 +8,9 @@ Bu projeyi geliştirirken temel amacım, Kotlin programlama dilinin temellerini 
 
 ## 📱 Ekran Görüntüsü
 
-<img src="HesapMak1.png" alt="Hesap Makinesi Ekran Görüntüsü" width="300"/>
+<img src="C:\Users\Mustafa\Desktop\mustafa\HesapMak1.png" alt="Hesap Makinesi Ekran Görüntüsü" width="300"/>
 
-*(Not: `HesapMak1.png` dosyasının projenin kök dizininde olduğundan emin ol ya da dosya yolunu buna göre güncelle.)*
+
 
 ## ✨ Özellikler
 
@@ -22,7 +22,7 @@ Bu projeyi geliştirirken temel amacım, Kotlin programlama dilinin temellerini 
 ## 🛠️ Kullanılan Teknolojiler
 
 * **Programlama Dili:** Kotlin
-* **Arayüz (Layout):** XML (ConstraintLayout, LinearLayout vb. hangisini kullandıysan belirtebilirsin)
+* **Arayüz (Layout):** XML (ConstraintLayout)
 
 ## 🚀 Öğrenilenler
 
@@ -40,4 +40,4 @@ Bu sadece bir başlangıç! Kotlin ve Android geliştirme dünyasında keşfedec
 
 ---
 
-Umarım bu taslak işine yarar! Kendi projenin detaylarına göre bu metni daha da özelleştirebilirsin. Örneğin, kullandığın belirli Android bileşenlerini veya karşılaştığın zorlukları ve bunları nasıl aştığını ekleyebilirsin. Başarılar dilerim!
+
